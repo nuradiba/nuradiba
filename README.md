@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adiba</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🔭 I’m currently working on [revamp SK magic official website](https://www.skmagic.com.my/)
-
 - 🌱 I’m currently learning **react and gsap**
 
 - 💬 Ask me about **vue, laravel and php**
 
 - 📫 How to reach me **adibahazwani@gmail.com**
-
-- ⚡ Fun fact **I have two fat cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
